@@ -1,3 +1,13 @@
+# Steerable discovery of neural audio effects fork
+
+This is a fork of the Steerable discovery of neural audio effects repository with the following changes:
+
+- A Tensorflow implementation of the same neural network has been created.
+- Changes to the original Pytorch version have been implemented (export to libtorch and onnx, removing film layer, code refactoring/simplification).
+
+All changes are subject to the MIT license.
+
+
 <div align="center">
 
 # Steerable discovery of neural audio effects 
