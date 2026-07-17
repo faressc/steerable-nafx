@@ -130,3 +130,5 @@ dmypy.json
 
 junk/
 .DS_Store
+# ExecuTorch export verification blobs
+*.pte.*.raw
